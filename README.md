@@ -1,5 +1,8 @@
 Employees Management
 
+
+ 🔴For read the codes you have to go inside the "src" folder.🔴
+ 
 A full-stack Java-based web application for managing employees and offices.  
 Designed for admin use only.
 
